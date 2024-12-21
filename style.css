@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    margin: 0 auto; padding: 0;
+    margin: 0; padding: 0;
 }
    
    /*Div-Id-Selector*/
@@ -39,7 +39,7 @@
        align-self: center;
        align-content: center;
        padding: 10%;
-       margin-bottom: 100px;
+       margin: 0 auto; margin-bottom: 100px;
        width: 1140px;
        max-width: 100%;
        height: 63vh;
@@ -68,7 +68,7 @@
        max-width: 100%;
        height: 430px;
        background-color: #03426D;
-       margin: 8.6px;
+       margin: 10px;
        padding: 15px;
        align-self: center;
        align-content: center;
@@ -96,7 +96,7 @@
        max-width: 100%;
        height: 430px;
        background-color: #0889B5;
-       margin: 8.6px;
+       margin: 10px;
        padding: 15px;
        align-self: center;
        align-content: center;
@@ -120,7 +120,7 @@
        max-width: 100%;
        height: 430px;
        background-color: #195c07;
-       margin: 8.6px;
+       margin: 10px;
        padding: 15px;
        align-self: center;
        align-content: center;
@@ -139,7 +139,7 @@
    .selector6{
        display: flex;
        justify-content: space-around;
-       margin-bottom: 300px;
+       margin: 0 auto; margin-bottom: 300px;
        padding: 15px;
        background: rgb(255, 187, 0) url(images/Islamic\ Cloth\ 2.webp) repeat-y fixed;
        background-size: contain;
