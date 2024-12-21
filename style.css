@@ -39,7 +39,7 @@
        align-self: center;
        align-content: center;
        padding: 10%;
-       margin: 0 auto; margin-bottom: 100px;
+       margin-bottom: 100px;
        width: 1140px;
        max-width: 100%;
        height: 63vh;
@@ -60,7 +60,6 @@
        background-color: #0889B5;
        margin-top: 15px; padding: 10px;
        color: #F4FFF1;
-       text-align: center;
    }
    
    .selector3{
@@ -142,7 +141,7 @@
        justify-content: space-around;
        margin-bottom: 300px;
        padding: 15px;
-       background: rgb(255, 187, 0) url(images/Islamic\ Cloth\ 2.webp) no-repeat center fixed;
+       background: rgb(255, 187, 0) url(images/Islamic\ Cloth\ 2.webp) repeat-y fixed;
        background-size: contain;
        width: 1140px;
        max-width: 100%;
