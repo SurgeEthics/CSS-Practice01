@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    margin: 0; padding: 0;
+    margin: 0 auto; padding: 0;
 }
    
    /*Div-Id-Selector*/
@@ -43,11 +43,7 @@
        width: 1140px;
        max-width: 100%;
        height: 63vh;
-<<<<<<< HEAD
-       background: #03426D url(./images/camera.webp) no-repeat center scroll;
-=======
-       background: #03426D url(Img/camera.webp) no-repeat center scroll;
->>>>>>> 5cb3699a2e795a2506f306295b6593829c8ea362
+       background: #03426D url(images/camera.webp) no-repeat center scroll;
        background-size: cover;
        border: 7.5px solid #F4FFF1;
        outline: 15px double #03426D;
@@ -142,18 +138,13 @@
    }
    
    .selector6{
-       align-self: center;
-       align-content: center;
-       align-items: center;
-       margin: 0 auto; margin-bottom: 300px;
+       display: flex;
+       justify-content: space-around;
+       margin-bottom: 300px;
        padding: 15px;
-<<<<<<< HEAD
-       background: rgb(255, 196, 0) url(./images/Islamic\ Cloth\ 2.webp) repeat-y center fixed;
-=======
-       background: rgb(255, 196, 0) url(Img/Islamic\ Cloth\ 2.webp) repeat-y center fixed;
->>>>>>> 5cb3699a2e795a2506f306295b6593829c8ea362
+       background: rgb(255, 187, 0) url(images/Islamic\ Cloth\ 2.webp) no-repeat center fixed;
        background-size: contain;
-       width: 1150px;
+       width: 1140px;
        max-width: 100%;
        height: 63vh;
        max-height: 100%;
