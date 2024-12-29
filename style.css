@@ -88,7 +88,7 @@
    
    .div7{
        background-color: #0889B5;
-       margin: 15px; padding: 15px;
+       margin: 15px; padding: 10px;
        color: #F4FFF1;
    }
    
@@ -109,7 +109,7 @@
    
    .div5{
        background-color: #03426D;
-       margin: 15px; padding: 15px;
+       margin: 15px; padding: 10px;
        color: #F4FFF1;
    }
    
@@ -128,14 +128,14 @@
    
    .div6{
        background-color: #fff;
-       margin: 15px; padding: 15px;
+       margin: 15px; padding: 10px;
        color: #000;
    }
    
    .selector6{
        display: flex;
        flex-flow: row nowrap;
-       justify-content: space-evenly;
+       justify-content: space-around;
        align-items: center;
        margin: 0 auto; margin-bottom: 300px;
        padding: 10px;
